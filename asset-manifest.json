@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/chess/static/css/main.483eeb91.css",
+    "main.js": "/chess/static/js/main.14cc2183.js",
+    "static/js/453.8411124a.chunk.js": "/chess/static/js/453.8411124a.chunk.js",
+    "static/media/Королева Чёрная.png": "/chess/static/media/Королева Чёрная.62524a57e8c074e8da5f.png",
+    "static/media/Конь Чёрный.png": "/chess/static/media/Конь Чёрный.6fb0a8d7ac5b6cbe2b91.png",
+    "static/media/Королева Белая.png": "/chess/static/media/Королева Белая.4b262e754fdcf1755307.png",
+    "static/media/Ладья Чёрная.png": "/chess/static/media/Ладья Чёрная.c5864fd76b48b19a5d0d.png",
+    "static/media/Конь Белый.png": "/chess/static/media/Конь Белый.edfb527b47c195b44228.png",
+    "static/media/Король Чёрный.png": "/chess/static/media/Король Чёрный.967f097161828d2131cb.png",
+    "static/media/Король Белый.png": "/chess/static/media/Король Белый.42b16e1a90a3d38f3598.png",
+    "static/media/Ладья Белая.png": "/chess/static/media/Ладья Белая.399598e74df7b8046fce.png",
+    "static/media/Пешка Чёрная.png": "/chess/static/media/Пешка Чёрная.ccf24950517cd0130657.png",
+    "static/media/Ферзь Чёрный.png": "/chess/static/media/Ферзь Чёрный.36e7b7740d4d4d2064ba.png",
+    "static/media/Пешка Белая.png": "/chess/static/media/Пешка Белая.6df79acfe95e60f49e32.png",
+    "static/media/Ферзь Белый.png": "/chess/static/media/Ферзь Белый.b69a153f2872902c1fe4.png",
+    "index.html": "/chess/index.html",
+    "main.483eeb91.css.map": "/chess/static/css/main.483eeb91.css.map",
+    "main.14cc2183.js.map": "/chess/static/js/main.14cc2183.js.map",
+    "453.8411124a.chunk.js.map": "/chess/static/js/453.8411124a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.483eeb91.css",
+    "static/js/main.14cc2183.js"
+  ]
+}

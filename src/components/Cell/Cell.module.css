@@ -1,0 +1,22 @@
+.cell {
+	display: inline-block;
+	width: 125px;
+	height: 115px;
+}
+
+.cell img {
+	width: 100%;
+	height: 100%;
+}
+
+.whiteCell {
+	background-color: #f5dfc3;
+}
+
+.blackCell {
+	background-color: #773800;
+}
+
+.activeCell {
+	background-color: #00aeff;
+}

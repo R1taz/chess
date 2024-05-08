@@ -1,0 +1,7 @@
+.gameField {
+	width: 1000px;
+	border: 10px solid rgb(255, 242, 172);
+
+	display: grid;
+	grid-template-columns: auto auto auto auto auto auto auto auto;
+}
